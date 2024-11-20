@@ -1,4 +1,4 @@
-# Sistema Back-End do site PixelGram!
+# Sistema Back-End do site CatGram!
 
 Este projeto implementa o backend do CatGram, um site de compartilhamento de fotos que permite aos usuários visualizar imagens e seus comentários associados ao clicar. O sistema é projetado para oferecer uma experiência fluida e interativa, suportando o gerenciamento de dados de maneira eficiente e segura. Ele será a base para futuras expansões, como autenticação de usuários e integração com APIs de mídia social.
 
